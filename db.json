@@ -1,0 +1,182 @@
+{
+  "cart": [
+    {
+      "id": 0,
+      "productId": 2,
+      "amount": 4
+    },
+    {
+      "id": 1,
+      "productId": 1,
+      "amount": 1
+    },
+    {
+      "productId": 1,
+      "amount": 1,
+      "id": 2
+    },
+    {
+      "productId": 1,
+      "amount": 1,
+      "id": 3
+    },
+    {
+      "productId": 1,
+      "amount": 1,
+      "id": 4
+    },
+    {
+      "productId": 3,
+      "amount": 1,
+      "id": 5
+    },
+    {
+      "productId": 4,
+      "amount": 1,
+      "id": 6
+    },
+    {
+      "productId": 2,
+      "amount": 1,
+      "id": 7
+    },
+    {
+      "productId": 1,
+      "amount": 1,
+      "id": 8
+    },
+    {
+      "productId": 1,
+      "amount": 1,
+      "id": 9
+    },
+    {
+      "productId": 1,
+      "amount": 1,
+      "id": 10
+    },
+    {
+      "productId": 5,
+      "amount": 1,
+      "id": 11
+    },
+    {
+      "productId": 2,
+      "amount": 1,
+      "id": 12
+    },
+    {
+      "productId": 1,
+      "amount": 1,
+      "id": 13
+    },
+    {
+      "productId": 1,
+      "amount": 1,
+      "id": 14
+    },
+    {
+      "productId": 2,
+      "amount": 1,
+      "id": 15
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Classic Potato Chips",
+      "brand": "SnackCo",
+      "category": "Chips",
+      "price": 2.99,
+      "weight": "150g",
+      "ingredients": [
+        "Potatoes",
+        "Vegetable Oil",
+        "Salt"
+      ],
+      "calories": 250,
+      "flavor": "Salty",
+      "is_gluten_free": true,
+      "is_vegan": true,
+      "availability": "In Stock"
+    },
+    {
+      "id": 2,
+      "name": "Chocolate Chip Cookies",
+      "brand": "SweetBites",
+      "category": "Cookies",
+      "price": 3.49,
+      "weight": "200g",
+      "ingredients": [
+        "Flour",
+        "Sugar",
+        "Butter",
+        "Eggs",
+        "Chocolate Chips"
+      ],
+      "calories": 300,
+      "flavor": "Chocolate",
+      "is_gluten_free": false,
+      "is_vegan": false,
+      "availability": "Out of Stock"
+    },
+    {
+      "id": 3,
+      "name": "Cheddar Cheese Popcorn",
+      "brand": "PopJoy",
+      "category": "Popcorn",
+      "price": 1.99,
+      "weight": "100g",
+      "ingredients": [
+        "Corn",
+        "Cheddar Cheese",
+        "Butter",
+        "Salt"
+      ],
+      "calories": 150,
+      "flavor": "Cheddar",
+      "is_gluten_free": true,
+      "is_vegan": false,
+      "availability": "In Stock"
+    },
+    {
+      "id": 4,
+      "name": "Fruit and Nut Bar",
+      "brand": "NatureTreats",
+      "category": "Bars",
+      "price": 2.79,
+      "weight": "50g",
+      "ingredients": [
+        "Almonds",
+        "Cashews",
+        "Dates",
+        "Honey",
+        "Cranberries"
+      ],
+      "calories": 180,
+      "flavor": "Mixed Fruit & Nut",
+      "is_gluten_free": true,
+      "is_vegan": true,
+      "availability": "In Stock"
+    },
+    {
+      "id": 5,
+      "name": "Caramel Pretzel Bites",
+      "brand": "SweetCrunch",
+      "category": "Pretzels",
+      "price": 3.29,
+      "weight": "120g",
+      "ingredients": [
+        "Pretzels",
+        "Sugar",
+        "Butter",
+        "Caramel"
+      ],
+      "calories": 220,
+      "flavor": "Caramel",
+      "is_gluten_free": false,
+      "is_vegan": false,
+      "availability": "In Stock"
+    }
+  ]
+}
